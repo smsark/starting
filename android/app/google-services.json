@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727194480455",
+    "firebase_url": "https://starting-bcdbc.firebaseio.com",
+    "project_id": "starting-bcdbc",
+    "storage_bucket": "starting-bcdbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727194480455:android:85b6020779e53d778ca662",
+        "android_client_info": {
+          "package_name": "com.afaqtech.starting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727194480455-p61c3226bdb6otokg1no0k9lt5petsh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afaqtech.starting",
+            "certificate_hash": "24eb04e3f96a6e84b0aea1dcfc1edb1ce752fcee"
+          }
+        },
+        {
+          "client_id": "727194480455-q9rpdu85crjdh4hnuojeg1tbob03hu9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrsj8FHFy9FvimcGl1HbLt9QE6lukYlRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727194480455-q9rpdu85crjdh4hnuojeg1tbob03hu9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
